@@ -1,4 +1,4 @@
-import { Button, Card, Text, Image } from "@rneui/themed";
+import { Button, Text, Image } from "@rneui/themed";
 import { StyleSheet, View } from "react-native";
 
 
